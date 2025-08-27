@@ -1,4 +1,3 @@
-// src/main/java/com/siigo/gastaging/tasks/ClickCrearButtonInShadowDOM.java
 package com.siigo.gastaging.tasks;
 
 import net.serenitybdd.screenplay.Actor;

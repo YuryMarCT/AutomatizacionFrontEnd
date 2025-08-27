@@ -38,7 +38,7 @@ public class CrearTercero {
 
     @DataTableType
     public Formulario dataCliente(Map<String, String> entry) {
-        System.out.println(">>> Convirtiendo data table a objeto Formulario: " + entry);
+        System.out.println("El usuario ingresa los campos obligatorios: " + entry);
         return new Formulario(
                 entry.get("nombres"),
                 entry.get("apellidos"),
